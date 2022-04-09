@@ -1,7 +1,7 @@
 # XORFilter
 Implementing XOR filters in Rust
 
-# To Do: 
+## To Do: 
 
 - [ ] Make some plan of attack to translate current C code into Rust. Identify primitives or external libraries needed along with necessary algorithms. Would be nice if could make structure a visual diagram or something as ground truth.
 
